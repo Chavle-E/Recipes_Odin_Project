@@ -1,0 +1,34 @@
+* {
+    background-color: aqua;
+}
+#main-text{
+    text-align: center;
+    font-family: "Arial", "Verdana", "Tahoma", "Trebuchet MS";
+}
+
+.food-image{
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.chapter-title{
+    font-family: "Arial", "Verdana", "Tahoma", "Trebuchet MS";
+}
+
+.short-desc{
+    font-family: "Verdana", "Arial", "Tahoma", "Trebuchet MS";
+
+}
+
+#unorded-list{
+    list-style-type: square;
+}
+
+.list-items{
+    font-family: "Verdana", "Arial", "Tahoma", "Trebuchet MS";
+    
+}

@@ -1,0 +1,19 @@
+body {
+    background-color: rgba(255, 0, 0, 20);
+}
+
+.main-text{
+    text-align: center;
+    font-family: "Arial", "Verdana", "Tahoma", "Trebuchet MS";
+    font-size: 30px;
+}
+
+.food-list{
+    list-style-type: square;
+
+}
+.list-item{
+    font-size: 15px;
+    font-family: "Arial", "Verdana", "Tahoma", "Trebuchet MS";
+    color: black;
+}
